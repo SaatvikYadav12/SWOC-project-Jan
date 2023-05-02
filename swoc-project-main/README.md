@@ -1,1 +1,0 @@
-# swoc-project
